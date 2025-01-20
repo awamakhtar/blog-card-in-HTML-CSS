@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 ## À propos
- Ce défis est un QR CODE
+ Ce défis a pour objectif de reproduire ce carte blog
  ## Prérequis
  - HTML
  - CSS
