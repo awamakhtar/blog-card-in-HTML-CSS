@@ -12,5 +12,6 @@
  les contributions sont les bienvenu
  ## Contact
  Awa Sylla - awamakhtarsylla@gmail.com
-Thanks for checking out this front-end coding challenge.
+
+-Thanks for checking out this front-end coding challenge.
 
