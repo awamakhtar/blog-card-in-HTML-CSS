@@ -14,7 +14,7 @@
  Awa Sylla - awamakhtarsylla@gmail.com
 
 -Thanks for checking out this front-end coding challenge.
- - Awa Sylla : awamakhtarsylla@gmail.com
- lien du deploiement: https://blog-card-in-html-css.vercel.app/
+- Awa Sylla : awamakhtarsylla@gmail.com
+- lien du deploiement: https://blog-card-in-html-css.vercel.app/
 - lien github: https://github.com/awamakhtar/blog-card-in-HTML-CSS.git
 
