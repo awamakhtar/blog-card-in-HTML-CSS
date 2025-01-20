@@ -24,11 +24,12 @@
       width: 300px;
       height: 400px;
       border-radius: 10px;
-      box-shadow: 10px 10px 10px hsl(0, 0%, 7%);
+      box-shadow: 5px 5px 1px hsl(0, 0%, 7%);
       border:1px solid hsl(0, 0%, 7%);
       margin-top: 35px;
       padding: 10px;
-
+      
+      
     }
     /* .content{
       background-color: hsl(0, 0%, 7%);
@@ -50,7 +51,8 @@
       text-align: center;
       display: flex; 
       border-radius: 2px;
-      line-height: 1;
+      
+      padding: 3px;
       
     }
     p{
@@ -68,7 +70,17 @@
     .profil{
       display: flex;
     }
-    
+    #icon{
+      font-size: 10px;
+      margin-top: 10px;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      font-weight: bold;
+    }
+    .attribution { font-size: 11px; text-align: center; margin-top: 20px;}
+    .attribution a { color: hsl(228, 45%, 44%); }
+    body {font-family: 'Figtree', sans-serif;}
   </style>
 </head>
 <body>
@@ -82,13 +94,21 @@
             <p>Published 21 Dec 2023</p>
             <h1>HTML & CSS foundations</h1>
             <p style="color:hsl(0, 0%, 42%); ";>These languages are the backbone of every website, defining structure, content, and presentation.</p>
-            <div class="profil">
-              <img src="/assets/images/image-avatar.webp" alt="" style="width: 10%; height: 20%; ">
-              <span style="margin-top: 10px; margin-left: 5px; font-family: Figtree, serif; font-size: 12px;">Greg Hooper</span>
+            
+
+              <p id="icon"><img src="./assets/images/image-avatar.webp" alt="icon" style="width: 30px; height: 30px ; margin-right: 10px ;"> Greg Hooper </p>
+
             </div>
           </div>
       </div>
     </div>
     </main>
+
+    <div class="attribution">
+      <footer>
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="#">Awa Sylla</a>.
+      </footer>
+    </div>
 </body>
 </html>
